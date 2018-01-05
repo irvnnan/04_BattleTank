@@ -8,3 +8,4 @@ click [here](http://filezero.org) to go to my last animation project
 * made this readme
 * continuing with the video
 * this bogus item added so commits would be at least 2
+* and now yet another one, but edited from my local computer vs github site
