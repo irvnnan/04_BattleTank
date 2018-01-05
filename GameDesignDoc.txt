@@ -1,0 +1,8 @@
+This is where the game design doc would go:
+
+I'm using VC 2017 Comm edition, and Unreal 4.18.2
+
+Since I'm only endeavoring to learn the key of Unreal / C++ magic, I'm leaving the guts of game design to these folks since
+ - game design is not my calling.  Leveraging the tech for my purpose - that's the trick
+ 
+ Get the game design from the Battle Tank Lecture in the 100 series of the Udemy C++/Unreal course by Tristem.
